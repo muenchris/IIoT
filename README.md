@@ -3,4 +3,4 @@ Home of my Industrial IoT material
 
 
 ## Abount us
-[about](About us)
+[Click here](About.md)
