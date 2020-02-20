@@ -4,5 +4,5 @@
 
 Come here ofter to learn intersting stuff about IIoT
 
-## Abount us
+## About us
 [More about the author](About.md)
