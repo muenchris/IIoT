@@ -5,4 +5,4 @@
 Come here ofter to learn intersting stuff about IIoT
 
 ## About us
-[More about the author](About.md)
+[More about the author](about.md)
