@@ -1,8 +1,8 @@
-# Chris Muench IoT Blog
+# C-Labs Press Releases
 
-## Initial Thoughts
+## [TRUMPF invests in C-Labs](PR2015.md)
 
-Come here ofter to learn intersting stuff about IIoT
+
 
 ## About us
 [More about the author](about.md)
