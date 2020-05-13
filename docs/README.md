@@ -5,9 +5,9 @@
 
 ### [April 2017: C-Labs releases 4th Generation IoT Software](PR2017.md)
 
-### [TRUMPF invests in C-Labs](PR2016.md)
+### [May 2016: C-Labs wins Top 100 Red-Herring award](PR2016.md)
 
-### [June 2015: TRUMPF invests in C-Labs](PR2015.md)
+### [November 2015: TRUMPF invests in C-Labs](PR2015.md)
 
 
 
