@@ -2,7 +2,7 @@
 
 ## Just Released:
 
-### [Connectivity-Labs Announces the Open Source Version of C-DEngine, the Game-Changing IoT Framework](PR202001.md)
+### [May 2020: Connectivity-Labs Announces the Open Source Version of C-DEngine, the Game-Changing IoT Framework](PR202001.md)
 
 ### Older Releases:
 
